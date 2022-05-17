@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(54, 108, 110);}
+    
+    
+.job-title{ background-color: rgb(128, 139, 42); color: black; 
+    font-family: initial;
+
+    font: size 30px; ;
+}
+ul {color: rgb(313, 27, 151);background-color:333333;
+}
+#high{color: rgb(134, 14, 246);}
+
+footer {background-color: rgb(53, 186, 30);}
